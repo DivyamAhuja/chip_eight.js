@@ -1,0 +1,12 @@
+{
+  "name": "chip_eight.js",
+  "version": "1.0.0",
+  "description": "A simple chip8 emulator in JavaScript.",
+  "main": "server.js",
+  "author": "Divyam Ahuja",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
