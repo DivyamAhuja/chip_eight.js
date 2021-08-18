@@ -6,6 +6,12 @@
   "author": "Divyam Ahuja",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
